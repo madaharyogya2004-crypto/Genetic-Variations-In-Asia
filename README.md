@@ -1,4 +1,4 @@
-# Genetic Variations In Asia
+# Genetic Variations In Asian populations
 An interactive group project exploring the gene pool among the population of Asia
 
 Overview
